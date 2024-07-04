@@ -12,9 +12,7 @@ This project focuses on analyzing and visualizing data related to the best perfo
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [File Structure](#file-structure)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Getting Started
@@ -48,17 +46,6 @@ Make sure you have the following software installed on your machine:
    ```
 3. Explore the various reports and visualizations to gain insights into the data.
 
-## File Structure
-
-The repository contains the following files and directories:
-
-```
-best-11-data-analysis/
-│
-├── Best 11.pbix             # Power BI file containing the data analysis
-├── README.md                # Project readme file
-└── data/                    # Directory to store raw and processed data files
-```
 
 ## Contributing
 
@@ -70,12 +57,9 @@ Contributions are what make the open source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [kumawataksh112@gmail.com](mailto:your.kumawataksh112@gmail.com)
 
 Project Link: [https://github.com/your-username/best-11-data-analysis](https://github.com/your-username/best-11-data-analysis)
