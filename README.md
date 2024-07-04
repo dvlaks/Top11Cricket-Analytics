@@ -50,6 +50,8 @@ Make sure you have the following software installed on your machine:
 ## Dashboard
 ```markdown
 ![Power BI Dashboard](screenshot.png)
+```
+
 
 ## Contributing
 
