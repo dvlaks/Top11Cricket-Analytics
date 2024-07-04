@@ -3,7 +3,9 @@
 
 ## Project Description
 
-This project focuses on analyzing and visualizing data related to the best performing players in a specific sport or league. The data is presented using Power BI to provide insights into player performance, statistics, and other relevant metrics. The goal is to identify the top 11 players based on various criteria and to help stakeholders make informed decisions.
+This project focuses on analyzing and visualizing data related to the best performing cricket players. The data is presented using Power BI to provide insights into player performance, statistics, and other relevant metrics. The goal is to identify the top 11 players based on various criteria and to help stakeholders make informed decisions.
+
+The data preprocessing phase is handled using Python. This involves cleaning the data, handling missing values, and transforming the data into a suitable format for analysis in Power BI. Python scripts used for data preprocessing are included in this repository.
 
 ## Table of Contents
 
