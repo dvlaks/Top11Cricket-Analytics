@@ -12,6 +12,7 @@ This project focuses on analyzing and visualizing data related to the best perfo
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Dashboard](#Dashboard)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
@@ -46,6 +47,9 @@ Make sure you have the following software installed on your machine:
    ```
 3. Explore the various reports and visualizations to gain insights into the data.
 
+## Dashboard
+```markdown
+![Power BI Dashboard](screenshot.png)
 
 ## Contributing
 
