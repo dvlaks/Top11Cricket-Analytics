@@ -68,6 +68,6 @@ Contributions are what make the open source community such an amazing place to l
 
 ## Contact
 
-Your Name - [kumawataksh112@gmail.com](mailto:your.kumawataksh112@gmail.com)
+Email - [kumawataksh112@gmail.com](mailto:your.kumawataksh112@gmail.com)
 
-Project Link: [https://github.com/your-username/best-11-data-analysis](https://github.com/your-username/best-11-data-analysis)
+Project Link: [https://github.com/dvlaks/Top11Cricket-Analytics](https://github.com/dvlaks/Top11Cricket-Analytics)
